@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-coding-challenges-dark-mode/static/css/main.f5571ee5.chunk.css",
+    "main.js": "/react-coding-challenges-dark-mode/static/js/main.e4b09742.chunk.js",
+    "main.js.map": "/react-coding-challenges-dark-mode/static/js/main.e4b09742.chunk.js.map",
+    "runtime-main.js": "/react-coding-challenges-dark-mode/static/js/runtime-main.8ed59a4f.js",
+    "runtime-main.js.map": "/react-coding-challenges-dark-mode/static/js/runtime-main.8ed59a4f.js.map",
+    "static/js/2.1444f64b.chunk.js": "/react-coding-challenges-dark-mode/static/js/2.1444f64b.chunk.js",
+    "static/js/2.1444f64b.chunk.js.map": "/react-coding-challenges-dark-mode/static/js/2.1444f64b.chunk.js.map",
+    "index.html": "/react-coding-challenges-dark-mode/index.html",
+    "static/css/main.f5571ee5.chunk.css.map": "/react-coding-challenges-dark-mode/static/css/main.f5571ee5.chunk.css.map",
+    "static/js/2.1444f64b.chunk.js.LICENSE.txt": "/react-coding-challenges-dark-mode/static/js/2.1444f64b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ed59a4f.js",
+    "static/js/2.1444f64b.chunk.js",
+    "static/css/main.f5571ee5.chunk.css",
+    "static/js/main.e4b09742.chunk.js"
+  ]
+}
