@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/react-coding-challenges-dark-mode/static/css/main.c95ade6a.chunk.css",
-    "main.js": "/react-coding-challenges-dark-mode/static/js/main.4a5d1a20.chunk.js",
-    "main.js.map": "/react-coding-challenges-dark-mode/static/js/main.4a5d1a20.chunk.js.map",
-    "runtime-main.js": "/react-coding-challenges-dark-mode/static/js/runtime-main.8ed59a4f.js",
-    "runtime-main.js.map": "/react-coding-challenges-dark-mode/static/js/runtime-main.8ed59a4f.js.map",
-    "static/js/2.f2effe82.chunk.js": "/react-coding-challenges-dark-mode/static/js/2.f2effe82.chunk.js",
-    "static/js/2.f2effe82.chunk.js.map": "/react-coding-challenges-dark-mode/static/js/2.f2effe82.chunk.js.map",
-    "index.html": "/react-coding-challenges-dark-mode/index.html",
-    "static/css/main.c95ade6a.chunk.css.map": "/react-coding-challenges-dark-mode/static/css/main.c95ade6a.chunk.css.map",
-    "static/js/2.f2effe82.chunk.js.LICENSE.txt": "/react-coding-challenges-dark-mode/static/js/2.f2effe82.chunk.js.LICENSE.txt"
+    "main.css": "/static/css/main.9c4af7ef.chunk.css",
+    "main.js": "/static/js/main.4a5d1a20.chunk.js",
+    "main.js.map": "/static/js/main.4a5d1a20.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a99f681c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a99f681c.js.map",
+    "static/js/2.f2effe82.chunk.js": "/static/js/2.f2effe82.chunk.js",
+    "static/js/2.f2effe82.chunk.js.map": "/static/js/2.f2effe82.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.9c4af7ef.chunk.css.map": "/static/css/main.9c4af7ef.chunk.css.map",
+    "static/js/2.f2effe82.chunk.js.LICENSE.txt": "/static/js/2.f2effe82.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8ed59a4f.js",
+    "static/js/runtime-main.a99f681c.js",
     "static/js/2.f2effe82.chunk.js",
-    "static/css/main.c95ade6a.chunk.css",
+    "static/css/main.9c4af7ef.chunk.css",
     "static/js/main.4a5d1a20.chunk.js"
   ]
 }
